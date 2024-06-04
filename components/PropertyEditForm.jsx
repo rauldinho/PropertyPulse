@@ -244,7 +244,7 @@ const PropertyEditForm = () => {
                         name="location.zipcode"
                         className="border rounded w-full py-2 px-3 mb-2"
                         placeholder="Zipcode"
-                        value={fields.zipcode}
+                        value={fields.location.zipcode}
                         onChange={handleChange}
                     />
                 </div>
