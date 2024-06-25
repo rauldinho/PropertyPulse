@@ -1,4 +1,3 @@
-import React from "react";
 //import properties from "@/properties.json";
 import PropertySearchForm from "@/components/PropertySearchForm";
 import Properties from "@/components/Properties";
